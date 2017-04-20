@@ -62,5 +62,5 @@ nbactions.xml
 nb-configuration.xml
 
 #Intellij IDEA files
-.iml
+*.iml
 /.idea
