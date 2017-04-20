@@ -51,6 +51,8 @@
             <groupId>smpp</groupId>
             <artifactId>smpp-lib</artifactId>
             <version>1.3</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/conf/smpp-lib-1.3.jar</systemPath>
         </dependency>
         
         <dependency>
