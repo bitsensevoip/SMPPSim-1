@@ -60,3 +60,7 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+
+#Intellij IDEA files
+.iml
+/.idea

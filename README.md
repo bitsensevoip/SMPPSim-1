@@ -1,3 +1,24 @@
+## SMPP Sim
+
+### Qué es?
+
+SMPP Sim es un simulador hecho por la empresa Selenium Software. 
+En @bitsensevoip lo usamos para simular un gateway SMPP, y poder hacer tests sin la necesidad del hardware físico.
+
+### Hoja de ruta
+
+Ya que SMPP Sim forma parte de nuestro stack de desarrollo, queremos sumarlo como ciudadano de primera clase, por lo que forkeamos un proyecto ya existente que lo *mavenizó* y nuestra principal meta es poder ejecutarlo dentro de un container de Docker.
+
+
+### Trabajo anterior y licencia
+
+Más abajo dejamos el README original del proyecto desde donde fue *forkeado* y además dentro del archivo SMPPSim_OFFICIAL_README están descriptas las condiciones bajo las cuales Selenium Software hace publico su trabajo. 
+
+
+
+
+##### Original README from haifzhan
+
 This repo is for self learn.  I modified the origial logging to Slf4j logging which helps me for debugging:)
 
 SMPPSim official website tutorial:
