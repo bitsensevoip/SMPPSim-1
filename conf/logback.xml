@@ -14,9 +14,8 @@
         </layout>
     </appender>
     <root>
-        <!--value can change to TRACE/DEBUG-->
         <level value="INFO"/>
-        <!--ref can change to FILE/CONSOLE -->
         <appender-ref ref="CONSOLE"/>
+        <appender-ref ref="FILE"/>
     </root>
 </configuration>
